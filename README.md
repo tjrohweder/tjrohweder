@@ -1,4 +1,5 @@
 <div align="center">
+
 <h1 style="font-size: 3em;">Hi 👋, I'm Tainã Rohweder</h1>
 <h2 style="color: #666;">Cloud Architect & DevOps Engineer</h2>
 
@@ -8,8 +9,8 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=tjrohweder&theme=darkhub&margin-w=15" alt="tjrohweder" />
 </a>
-
 <br><br>
+
 
 ## 🤝 Connect with Me
 
@@ -55,8 +56,7 @@
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
   <img src="https://github-readme-stats.vercel.app/api?username=tjrohweder&show_icons=true&locale=en&theme=dark&count_private=true&include_all_commits=true" alt="tjrohweder" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tjrohweder&theme=dark&count_private=true&include_all_commits=true" alt="tjrohweder" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tjrohweder&show_icons=true&locale=en&hide=html&theme=dark&count_private=true&include_all_commits=true&card_width=320" alt="tjrohweder" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tjrohweder&show_icons=true&locale=en&hide=html&theme=dark&count_private=true&include_all_commits=true" alt="tjrohweder" />
 </div>
 
 </div>
-
