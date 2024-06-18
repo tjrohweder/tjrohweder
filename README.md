@@ -9,8 +9,8 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=tjrohweder&theme=darkhub&margin-w=15" alt="tjrohweder" />
 </a>
-<br><br>
 
+<br><br>
 
 ## 🤝 Connect with Me
 
@@ -53,10 +53,18 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: space-around; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api?username=tjrohweder&show_icons=true&locale=en&theme=dark&count_private=true&include_all_commits=true" alt="tjrohweder" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tjrohweder&theme=dark&count_private=true&include_all_commits=true" alt="tjrohweder" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tjrohweder&show_icons=true&locale=en&hide=html&theme=dark&count_private=true&include_all_commits=true" alt="tjrohweder" />
-</div>
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 33%;">
+      <img src="https://github-readme-stats.vercel.app/api?username=tjrohweder&show_icons=true&locale=en&theme=dark&count_private=true&include_all_commits=true" alt="tjrohweder" />
+    </td>
+    <td style="width: 33%;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tjrohweder&theme=dark&count_private=true&include_all_commits=true" alt="tjrohweder" />
+    </td>
+    <td style="width: 33%;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tjrohweder&show_icons=true&locale=en&hide=html&theme=dark&count_private=true&include_all_commits=true" alt="tjrohweder" />
+    </td>
+  </tr>
+</table>
 
 </div>
