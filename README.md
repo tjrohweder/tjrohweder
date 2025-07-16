@@ -17,7 +17,7 @@
 <div style="display: flex; align-items: center; justify-content: center;">
   <a href="https://linkedin.com/in/tjrohweder" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tjrohweder" height="30" width="40" />
-  </a> 
+  </a>
 </div>
 
 <br><br>
@@ -50,21 +50,5 @@
 </div>
 
 <br><br>
-
-## 📊 GitHub Stats
-
-<table style="width: 100%;">
-  <tr>
-    <td style="width: 33%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=tjrohweder&show_icons=true&locale=en&theme=dark&count_private=true&include_all_commits=true" alt="tjrohweder" />
-    </td>
-    <td style="width: 33%;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tjrohweder&theme=dark&count_private=true&include_all_commits=true" alt="tjrohweder" />
-    </td>
-    <td style="width: 33%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tjrohweder&show_icons=true&locale=en&hide=html&theme=dark&count_private=true&include_all_commits=true" alt="tjrohweder" />
-    </td>
-  </tr>
-</table>
 
 </div>
