@@ -6,10 +6,6 @@
 <img src="https://komarev.com/ghpvc/?username=tjrohweder&label=Profile%20views&color=0e75b6&style=flat" alt="tjrohweder" />
 <br>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=tjrohweder&theme=darkhub&margin-w=15" alt="tjrohweder" />
-</a>
-
 <br><br>
 
 ## 🤝 Connect with Me
