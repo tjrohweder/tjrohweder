@@ -1,7 +1,6 @@
 <div align="center">
 
 <h1 style="font-size: 3em;">Hi 👋, I'm Tainã Rohweder</h1>
-<h2 style="color: #666;">Cloud Architect & DevOps Engineer</h2>
 
 <img src="https://komarev.com/ghpvc/?username=tjrohweder&label=Profile%20views&color=0e75b6&style=flat" alt="tjrohweder" />
 <br>
