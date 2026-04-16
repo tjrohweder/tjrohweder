@@ -4,9 +4,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=tjrohweder&label=Profile%20views&color=0e75b6&style=flat" alt="tjrohweder" />
 
-<br/>
+<br/><br/>
 
-## Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/tjrohweder" target="blank">
@@ -14,9 +14,9 @@
   </a>
 </p>
 
-<br/>
+<br/><br/>
 
-## Languages and Tools
+### Languages and Tools
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -43,6 +43,6 @@
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
 </p>
 
-<br/>
+<br/><br/>
 
 </div>
