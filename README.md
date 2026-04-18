@@ -10,10 +10,9 @@ I focus on designing, automating, and maintaining highly resilient and scalable 
 
 ### Connect with Me
 
-<img src="https://komarev.com/ghpvc/?username=tjrohweder&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="tjrohweder views" />
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tjrohweder)
+<img src="https://komarev.com/ghpvc/?username=tjrohweder&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="tjrohweder views" /> <a href="https://linkedin.com/in/tjrohweder" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-<br>
+<br><br>
 
 ### Tech Stack
 
@@ -31,7 +30,6 @@ I focus on designing, automating, and maintaining highly resilient and scalable 
 <br>
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white)
 
 <br>
 
@@ -49,6 +47,7 @@ I focus on designing, automating, and maintaining highly resilient and scalable 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white)
 
 <br>
 
