@@ -2,7 +2,7 @@
 
 # Hi, I'm Tainã Rohweder
 
-**Cloud Architect | Site Reliability Engineer (SRE)**
+**Site Reliability Engineer | Platform Engineer | DevOps Engineer**
 
 I focus on designing, automating, and maintaining highly resilient and scalable cloud infrastructures.
 
